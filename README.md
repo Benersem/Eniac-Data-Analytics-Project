@@ -44,8 +44,7 @@ In this project, we analyze Magist’s marketplace data to help Eniac make data-
 
 ## 📌 Conclusion & Recommendations  
 
-- Eniac needs to assess whether Magist can handle high-end tech products effectively.  
-- Delivery time analysis will help determine if Magist's logistics are suitable for Eniac's standards.  
+For a detailed summary of the findings and recommendations, check out the [CONCLUSIONS.md](./CONCLUSIONS.md).  
 
 ## 🚀 How to Use This Repository  
 
