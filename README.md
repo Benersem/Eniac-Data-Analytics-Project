@@ -12,8 +12,7 @@ In this project, we analyze Magist’s marketplace data to help Eniac make data-
 ## 📂 Project Structure  
 
 - **`data/`**  
-  - `raw/`: Contains the original database snapshot (SQL files).  
-  - `processed/`: Contains cleaned and structured CSV files used in the analysis.  
+  - Contains cleaned and structured CSV files used in the analysis.  
 
 - **`sql_scripts/`**  
   - SQL queries used to investigate business questions.    
